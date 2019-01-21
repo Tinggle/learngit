@@ -7,5 +7,5 @@ git add fileName.
 git commit -m "discribe".
 Git has a mutable index called stage.
 chenjie NOT bad.
-chenjie is big bad.
+chenjie is big good:.
 
