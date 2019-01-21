@@ -6,4 +6,6 @@ git diff.
 git add fileName.
 git commit -m "discribe".
 Git has a mutable index called stage.
-chenjie & bad.
+chenjie NOT bad.
+chenjie is big bad.
+
